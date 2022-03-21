@@ -6,12 +6,12 @@ The code of Lab2 of Deep Learning and Practice, please refer to [Lab2.pdf](https
 
 ## Reimplement Procedure
 跟著以下步驟可以重現同樣成果：
-1. [Prepare Lab2 File](#Prepare Lab2 File)
-2. [訓練model](#訓練model)
+1. [Prepare Lab2 File](#Prepare_Lab2_File)
+2. [Train and Test Model](#Train_and_Test_Model)
 
 ## Prepare Lab2 File
 Download Lab2.ipynb and upload it to Google Drive.
 
-### 訓練model
+## Train and Test Model
 1. Click Lab2.ipynb and open it with Google Colab.
 2. Click Runtime above => Run all, and then you can get the result.
