@@ -7,7 +7,7 @@ The code of Lab2 of Deep Learning and Practice, please refer to [Lab2.pdf](https
 ## Reimplement Procedure
 跟著以下步驟可以重現同樣成果：
 1. [Prepare Lab2 File](#Prepare-Lab2-File)
-2. [Train and Test Model](#Train-and-Test Model)
+2. [Train and Test Model](#Train-and-Test-Model)
 
 ## Prepare Lab2 File
 Download Lab2.ipynb and upload it to Google Drive.
