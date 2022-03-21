@@ -14,4 +14,6 @@ Download Lab2.ipynb and upload it to Google Drive.
 
 ## Train and Test Model
 1. Click Lab2.ipynb and open it with Google Colab.
+![image](https://github.com/nomiaro/Deep-Learning-and-Practice/blob/main/Lab2-Backpropagation/Picture/open%20file.png)
 2. Click Runtime above => Run all, and then you can get the result.
+![image](https://github.com/nomiaro/Deep-Learning-and-Practice/blob/main/Lab2-Backpropagation/Picture/run%20all.png)
