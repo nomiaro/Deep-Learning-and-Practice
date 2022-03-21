@@ -1,5 +1,5 @@
 # Deep-Learning-and-Practice-Lab2
-深度學習與實務Lab2的code，詳細情形可參考[Lab2.pdf](https://github.com/nomiaro/Deep-Learning-and-Practice/blob/main/Lab2-Backpropagation/Lab2-Backpropagation.pdf)或[Lab2.pptx](https://github.com/nomiaro/Deep-Learning-and-Practice/blob/main/Lab2-Backpropagation/Lab2-Backpropagation.pptx)
+The code of Lab2 of Deep Learning and Practice, please refer to [Lab2.pdf](https://github.com/nomiaro/Deep-Learning-and-Practice/blob/main/Lab2-Backpropagation/Lab2-Backpropagation.pdf) or [Lab2.pptx](https://github.com/nomiaro/Deep-Learning-and-Practice/blob/main/Lab2-Backpropagation/Lab2-Backpropagation.pptx) for details.
 
 ## 環境
 - Google colab
